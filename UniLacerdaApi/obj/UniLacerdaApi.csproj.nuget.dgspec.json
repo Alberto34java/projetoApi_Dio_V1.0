@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj": {}
+    "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj": {
+    "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj",
+        "projectUniqueName": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj",
         "projectName": "UniLacerdaApi",
-        "projectPath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj",
+        "projectPath": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\UniLacerdaApi.csproj",
         "packagesPath": "C:\\Users\\albertolacerda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\obj\\",
+        "outputPath": "c:\\Users\\albertolacerda\\Documents\\BootCamp\\Portifolio_Projetos_BootCamp\\PROJETO_DIO\\projetoApi_Dio_V1.0\\UniLacerdaApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\albertolacerda\\AppData\\Roaming\\NuGet\\NuGet.Config",
