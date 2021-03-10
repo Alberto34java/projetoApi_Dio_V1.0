@@ -1,0 +1,5 @@
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\PROJETO_DIO\projetoApi_Dio_V1.0\UniLacerdaApi\Uni.Servicos\obj\Debug\net5.0\Uni.Servicos.csprojAssemblyReference.cache
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\PROJETO_DIO\projetoApi_Dio_V1.0\UniLacerdaApi\Uni.Servicos\obj\Debug\net5.0\Uni.Servicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\PROJETO_DIO\projetoApi_Dio_V1.0\UniLacerdaApi\Uni.Servicos\obj\Debug\net5.0\Uni.Servicos.AssemblyInfoInputs.cache
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\PROJETO_DIO\projetoApi_Dio_V1.0\UniLacerdaApi\Uni.Servicos\obj\Debug\net5.0\Uni.Servicos.AssemblyInfo.cs
+C:\Users\albertolacerda\Documents\BootCamp\Portifolio_Projetos_BootCamp\PROJETO_DIO\projetoApi_Dio_V1.0\UniLacerdaApi\Uni.Servicos\obj\Debug\net5.0\Uni.Servicos.csproj.CoreCompileInputs.cache

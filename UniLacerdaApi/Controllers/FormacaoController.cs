@@ -17,18 +17,12 @@ namespace UniLacerdaApi.Controllers
            public FormacaoController()
            {
                //
-               public [HttpGet(nameof(Create))]
-               public async Task<IActionResult> Create(string name)
+               
+               
+               [HttpGet]
+               public IActionResult Index()
                {
                    
-                   return Ok;
-               }
-
-               public [HttpPost(nameof(Create))]
-               public async Task<IActionResult> Create(string name)
-               {
-                   
-                   return Ok;
                }
                //
            }
