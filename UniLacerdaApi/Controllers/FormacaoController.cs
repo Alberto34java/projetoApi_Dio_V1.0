@@ -14,6 +14,24 @@ namespace UniLacerdaApi.Controllers
     public class FormacaoController : ControllerBase
     {
 
+           public FormacaoController()
+           {
+               //
+               public [HttpGet(nameof(Create))]
+               public async Task<IActionResult> Create(string name)
+               {
+                   
+                   return Ok;
+               }
+
+               public [HttpPost(nameof(Create))]
+               public async Task<IActionResult> Create(string name)
+               {
+                   
+                   return Ok;
+               }
+               //
+           }
         
     }
 }
